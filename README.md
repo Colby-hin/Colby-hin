@@ -1,33 +1,50 @@
-<h1>Hi, I'm Colby <br/><a href="https://github.com/joshmadakor1" <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+# Hello, I'm Colby Hinchy
+<a href="https://www.linkedin.com/in/colby-hinchy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
+Motivated Entry Level Cybersecurity Professional looking forward to contributing to the success of an organization while continuing to develop my technical skill sets as I progress in my career. 
+
+## Objective
+
+My journey in cybersecurity has strengthened my passion for threat detection and Identity and Access Management. With hands on experience in IT, labs, and security projects, I am working toward becoming a Cybersecurity Analyst.
+
+## Skills
 
 
-<h2> 🤳 Connect with me:</h2>
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis | [Azure Honeypot and Attack Map](projects/azure-cloud-detection-lab.md) |
+| Creating identities and adding them into AD using PowerShell | [Bulk AD User Onboarding](projects/ActiveDirectory-UserProvisioning-with-PowerShell.md) |
+| Integrating Active Directory with Okta | [Okta and Active Directory integration](projects/okta-integration.md) |
 
 
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+    
+</div>
+
+
+   
+</div>
+
+## Certifications
+
+<div>
+
+<div>
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-EE1C25?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
+</div>
+
+## Projects
+- Azure Cloud Detection Lab
+- AD User Onboarding Via PowerShell
+- AD and Okta integration
