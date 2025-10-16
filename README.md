@@ -13,8 +13,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | [Azure Honeypot and Attack Map]([Azure Cloud Detection Lab](projects/Azure-Cloud-Detection-Lab.md)
-) |
+| SIEM Implementation and Log Analysis | [Azure Cloud Detection Lab](projects/Azure-Cloud-Detection-Lab.md) |
 | Creating identities and adding them into AD using PowerShell | [Bulk AD User Onboarding](projects/ActiveDirectory-UserProvisioning-with-PowerShell.md) |
 | Integrating Active Directory with Okta | [Okta and Active Directory integration](projects/okta-integration.md) |
 
