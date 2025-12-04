@@ -38,8 +38,10 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 
 <div>
   <img src="https://img.shields.io/badge/CompTIA-A%2B-EE1C25?style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+    
 </div>
 
 </div>
