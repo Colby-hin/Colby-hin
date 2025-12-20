@@ -51,6 +51,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 - Azure Cloud Detection Lab
 - AD User Onboarding Via PowerShell
 - AD and Okta integration
+- Vulnerability scanning using Nessus
 
 
 
