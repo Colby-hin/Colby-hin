@@ -13,7 +13,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | [Azure Honeypot and Attack Map](projects/azure-cloud-detection-lab.md) |
+| SIEM Implementation and Log Analysis | [Azure Honeypot and Attack Map](https://github.com/Colby-hin/Azure-Honeypot/tree/main) |
 | Creating identities and adding them into AD using PowerShell | [Bulk AD User Onboarding](projects/ActiveDirectory-UserProvisioning-with-PowerShell.md) |
 | Integrating Active Directory with Okta | [Okta and Active Directory integration](projects/okta-integration.md) |
 | Scanning for vulnerabilities using Nessus | [Nessus Web Application Vulnerability Lab](https://github.com/Colby-hin/nessus-vulnerability-assessment-lab)
