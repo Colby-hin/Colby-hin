@@ -45,7 +45,6 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 </div>
 
 ## Projects
-- AD User Onboarding Via PowerShell
 - Vulnerability scanning using Nessus
 - Social Engineering with SET
 
