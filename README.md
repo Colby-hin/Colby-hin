@@ -13,8 +13,6 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | [Azure Honeypot and Attack Map](https://github.com/Colby-hin/Azure-Honeypot/tree/main) |
-| Integrating Active Directory with Okta | [Okta and Active Directory integration](https://github.com/Colby-hin/Integration-of-Active-Directory-with-Okta/tree/main) |
 | Scanning for vulnerabilities using Nessus | [Nessus Web Application Vulnerability Lab](https://medium.com/@colbyhinchy/eb2323c1d936?postPublishedType=initial)
 | Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) |
 
@@ -47,17 +45,14 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 </div>
 
 ## Projects
-- Azure Cloud Detection Lab
 - AD User Onboarding Via PowerShell
-- AD and Okta integration
 - Vulnerability scanning using Nessus
+- Social Engineering with SET
 
 
 
-## Skills Demonstrated
-- SIEM Implementation & Log Analysis  
-- Threat Detection & Response  
-- KQL Querying  
+## Skills Demonstrated  
+- Threat Detection & Response    
 - Incident Investigation  
 
 ---
