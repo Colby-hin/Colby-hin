@@ -6,7 +6,7 @@ Motivated IT Professional looking forward to contributing to the success of an o
 
 ## Objective
 
-My journey in cybersecurity has strengthened my passion for threat detection and Identity and Access Management. With hands on experience in IT, labs, and security projects, I am working toward becoming a Cybersecurity Analyst.
+My journey in cybersecurity has strengthened my passion for threat detection and system administration. With hands on experience in IT, labs, and security projects, I am working toward becoming a Cybersecurity Analyst.
 
 ## Skills
 
