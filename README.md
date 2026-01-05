@@ -48,6 +48,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 ## Projects
 - Vulnerability scanning using Nessus
 - Social Engineering with SET
+- Network Incident and Investigation
 
 
 
