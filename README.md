@@ -54,5 +54,5 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 ## Skills Demonstrated  
 - Threat Detection & Response    
 - Incident Investigation  
-
+- Mitigation
 ---
