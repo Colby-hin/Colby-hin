@@ -15,7 +15,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 |-----------------------------------------------|----------------------------|
 | Scanning for vulnerabilities using Nessus | [Nessus Web Application Vulnerability Lab](https://medium.com/@colbyhinchy/eb2323c1d936?postPublishedType=initial)
 | Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) |
-| Incident response and investigation | [Network Incident and Investigation](https://medium.com/@colbyhinchy/network-incident-and-investigation-6bfdf4ec1263)
+| Incident response and investigation | [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 
 
 
