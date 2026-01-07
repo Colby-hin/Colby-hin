@@ -1,10 +1,8 @@
 # Hello, I'm Colby Hinchy
-<br><br>
 <a href="https://www.linkedin.com/in/colby-hinchy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dedicated to contributing to an organization’s success while continuing to develop and expand my technical skill set throughout my career.
+IT professional looking forward to contributing to an organization’s success while continuing to develop and expand my technical skill set throughout my career.
  
-
 ## Objective
 
 Motivated IT professional with a strong interest in cybersecurity and infrastructure security. The concept of overseeing an organization’s infrastructure and applying technical knowledge to strengthen its security posture has always been deeply motivating and has given me a strong sense of purpose. With experience in IT, labs, and security projects, I am working toward becoming a Cybersecurity Analyst.
