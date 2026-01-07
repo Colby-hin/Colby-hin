@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/colby-hinchy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Motivated IT Professional looking forward to contributing to the success of an organization while continuing to develop my technical skill sets as I progress in my career. 
+IT Professional looking forward to contributing to the success of an organization while continuing to develop my technical skill sets as I progress in my career. 
 
 ## Objective
 
