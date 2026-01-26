@@ -17,6 +17,7 @@ Motivated IT professional with a strong interest in cybersecurity and infrastruc
 | Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) |
 | Incident response and investigation | [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 | STIG Compliance Scan | [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
+| Credentialed vs Non-Credentialed Scan | [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
 
 
 
