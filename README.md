@@ -16,6 +16,7 @@ Motivated IT professional with a strong interest in cybersecurity and infrastruc
 | Scanning for vulnerabilities using Nessus | [Nessus Web Application Vulnerability Lab](https://medium.com/@colbyhinchy/eb2323c1d936?postPublishedType=initial)
 | Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) |
 | Incident response and investigation | [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
+| STIG Compliance Scan | [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
 
 
 
