@@ -48,7 +48,7 @@ Motivated IT professional with a strong interest in cybersecurity and infrastruc
 </div>
 
 ## Projects
-- Vulnerability scanning using Nessus
+- Vulnerability scanning using Tenable
 - Social Engineering with SET
 - Network Incident and Investigation
 
@@ -59,4 +59,5 @@ Motivated IT professional with a strong interest in cybersecurity and infrastruc
 - Incident Investigation  
 - Mitigation
 - Change Management
+- Remediation
 ---
