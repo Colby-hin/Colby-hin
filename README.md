@@ -46,12 +46,6 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 </div>
 
-## Projects
-- Vulnerability scanning using Tenable
-- Social Engineering with SET
-- Network Incident and Investigation
-
-
 
 ## Skills Demonstrated  
 - Threat Detection & Response    
