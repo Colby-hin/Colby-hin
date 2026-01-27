@@ -58,4 +58,5 @@ Motivated IT professional with a strong interest in cybersecurity and infrastruc
 - Threat Detection & Response    
 - Incident Investigation  
 - Mitigation
+- Change Management
 ---
