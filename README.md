@@ -19,7 +19,7 @@ Motivated IT professional with a strong interest in cybersecurity and infrastruc
 | STIG Compliance Scan | [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
 | Credentialed vs Non-Credentialed Scan | [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
 | Integrating AD with Okta | [Okta and Active Directory Integration](https://medium.com/@colbyhinchy/active-directory-and-okta-integration-7e0b20dc3c82)
-
+| Setting up a Vulnerability Management Program | [Vulnerability Management Program Implementation](https://medium.com/@colbyhinchy/vulnerability-management-program-implementation-72a7cb01e8f1)
 
 
 
