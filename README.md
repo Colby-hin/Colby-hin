@@ -16,7 +16,6 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 | Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) |
 | Incident response and investigation | [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 | Credentialed vs Non-Credentialed Scan | [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
-| Integrating AD with Okta | [Okta and Active Directory Integration](https://medium.com/@colbyhinchy/active-directory-and-okta-integration-7e0b20dc3c82)
 | Create Alert Rule | [Create Alert Rule (Brute Force Attempt Detection) in Sentinel](https://medium.com/p/1bf44db11b32?postPublishedType=initial)
 
 </div>
@@ -25,6 +24,11 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 - [Vulnerability Management Program Implementation](https://medium.com/@colbyhinchy/vulnerability-management-program-implementation-72a7cb01e8f1)
 - [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
+
+</div>
+
+## IAM Projects
+- [Okta and Active Directory Integration](https://medium.com/@colbyhinchy/active-directory-and-okta-integration-7e0b20dc3c82)
 
 
 
