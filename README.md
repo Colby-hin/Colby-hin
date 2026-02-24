@@ -12,8 +12,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) |
-| Incident response and investigation | [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
+| Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) 
 | Credentialed vs Non-Credentialed Scan | [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
 | Create Alert Rule | [Create Alert Rule (Brute Force Attempt Detection) in Sentinel](https://medium.com/p/1bf44db11b32?postPublishedType=initial)
 
