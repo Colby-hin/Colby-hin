@@ -12,7 +12,6 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scanning for vulnerabilities using Nessus | [Nessus Web Application Vulnerability Lab](https://medium.com/@colbyhinchy/eb2323c1d936?postPublishedType=initial)
 | Social Engineering | [Social Engineering with SET](https://medium.com/@colbyhinchy/social-engineering-with-set-529b64eb9a17?postPublishedType=initial) |
 | Incident response and investigation | [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 | Credentialed vs Non-Credentialed Scan | [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
@@ -24,6 +23,15 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 - [Vulnerability Management Program Implementation](https://medium.com/@colbyhinchy/vulnerability-management-program-implementation-72a7cb01e8f1)
 - [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
+- [Nessus Web Application Vulnerability Lab](https://medium.com/@colbyhinchy/eb2323c1d936?postPublishedType=initial)
+
+</div>
+
+## Threat Hunting and Incident Response
+- [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
+- [Threat Hunting Scenario](https://github.com/Colby-hin/threat-hunting-scenario-tor/blob/main/README.md)
+
+
 
 </div>
 
