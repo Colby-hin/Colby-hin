@@ -1,4 +1,8 @@
-# Hello, I'm Colby Hinchy
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Colby-hin&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+# Hi, I'm Colby Hinchy 👋
 
 <a href="https://www.linkedin.com/in/colby-hinchy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
