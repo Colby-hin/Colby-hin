@@ -64,6 +64,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-SecAI%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 </div>
