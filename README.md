@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/colby-hinchy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT professional looking forward to contributing to an organization’s success while continuing to expand my technical skill set throughout my career.
+Cybersecurity professional looking forward to contributing to an organization’s success while continuing to expand my technical skill set throughout my career.
  
 ## Objective
 
