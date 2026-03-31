@@ -10,8 +10,7 @@ IT professional looking forward to contributing to an organization’s success w
  
 ## Objective
 
-Throughout my career so far I’ve been intrigued by the concept of understanding an enterprise’s infrastructure inside and out to pinpoint areas for improvement. I have experience troubleshooting network and technical issues, using tools like Jira, ServiceNow, MFA/SSO, and supporting identity and access management. My goal is to apply these skills while proactively contributing to an organization’s success, ensuring its infrastructure is resilient and secure.
-## Skills
+Throughout my career so far I’ve been intrigued by the concept of understanding an enterprise’s infrastructure inside and out to pinpoint areas for improvement. I have experience leveraging tools such as SIEM platforms and supporting SOC workflows to monitor, analyze, and respond to potential threats.
 
 
 | Skill                                         | Associated Project         |
