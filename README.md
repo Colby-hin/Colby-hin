@@ -68,6 +68,6 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - Threat Detection & Response    
 - Incident Investigation  
 - Mitigation
-- Change Management
+- Threat Hunting
 - Remediation
 ---
