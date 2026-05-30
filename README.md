@@ -26,6 +26,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 ## Threat Hunting and Incident Response
 - [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 - [Threat Hunting Scenario (TOR)](https://github.com/Colby-hin/threat-hunting-scenario-tor/blob/main/README.md)
+- [Cargo Hold Threat Hunt Scenario](https://github.com/Colby-hin/Threat-Hunt-Cargo-Hold/blob/main/README.md)
 
 
 
