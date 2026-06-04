@@ -14,7 +14,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 </div>
 
-## Vulnerability Management Projects
+## Vulnerability Management
 
 - [Vulnerability Management Program Implementation](https://medium.com/@colbyhinchy/vulnerability-management-program-implementation-72a7cb01e8f1)
 - [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
