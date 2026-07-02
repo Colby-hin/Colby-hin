@@ -26,8 +26,8 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 - [Threat Hunting Scenario (TOR)](https://github.com/Colby-hin/threat-hunting-scenario-tor)
 - [Cargo Hold Threat Hunt Scenario](https://github.com/Colby-hin/Threat-Hunt-Cargo-Hold)
-- [Agentic SOC Engine](https://github.com/Colby-hin/agentic-soc-engine)
-- [Agentic SOC Dashboard](https://github.com/Colby-hin/agentic-soc-dashboard)
+- [Agentic Threat Hunting Engine](https://github.com/Colby-hin/agentic-soc-engine)
+- [Agentic Threat Hunting Dashboard](https://github.com/Colby-hin/agentic-soc-dashboard)
 
 
 
