@@ -37,6 +37,12 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - [Okta and Active Directory Integration](https://medium.com/@colbyhinchy/active-directory-and-okta-integration-7e0b20dc3c82)
 
 
+</div>
+
+## Python & Security Automation
+- [Password Strength Evaluator](https://github.com/Colby-hin/password-evaluator)
+
+
 
 
 
