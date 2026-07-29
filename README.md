@@ -14,6 +14,10 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 </div>
 
+## GRC Engineering
+
+- [AWS Least Privilege Audit](https://github.com/Colby-hin/aws-least-privilege-audit)
+
 ## Vulnerability Management
 
 - [Vulnerability Management Program Implementation](https://medium.com/@colbyhinchy/vulnerability-management-program-implementation-72a7cb01e8f1)
