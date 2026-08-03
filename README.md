@@ -17,6 +17,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 ## GRC Engineering
 
 - [AWS Least Privilege Audit](https://github.com/Colby-hin/aws-least-privilege-audit)
+- [Building a Compliant Resource (AWS S3)](https://github.com/Colby-hin/cge-p-capstone)
 
 ## Vulnerability Management
 
