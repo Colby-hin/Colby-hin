@@ -45,6 +45,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 </div>
 
 ## Python & Security Automation
+- [Automated Sigma Detection Deployment to GrayLog](https://github.com/Colby-hin/CJDE-Workflow)
 - [Password Strength Evaluator](https://github.com/Colby-hin/password-evaluator)
 
 
