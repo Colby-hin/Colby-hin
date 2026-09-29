@@ -25,6 +25,10 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 </div>
 
+## Python & Security Automation
+- [Automated Sigma Detection Deployment to GrayLog](https://github.com/Colby-hin/CJDE-Workflow)
+- [Password Strength Evaluator](https://github.com/Colby-hin/password-evaluator)
+
 ## Threat Hunting and Incident Response
 - [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 - [Threat Hunting Scenario (TOR)](https://github.com/Colby-hin/threat-hunting-scenario-tor)
@@ -42,34 +46,10 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 </div>
 
-## Python & Security Automation
-- [Automated Sigma Detection Deployment to GrayLog](https://github.com/Colby-hin/CJDE-Workflow)
-- [Password Strength Evaluator](https://github.com/Colby-hin/password-evaluator)
-
-
-
-
-
-
-
-
-    
-</div>
-
-
-   
-</div>
-
-## Certifications
 
 <div>
 
-<div>
-  <img src="https://img.shields.io/badge/CompTIA-A%2B-EE1C25?style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-SecAI%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 </div>
 
 </div>
@@ -80,5 +60,6 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - Incident Investigation  
 - Mitigation
 - Threat Hunting
+- Detection Engineering
 - Remediation
 ---
