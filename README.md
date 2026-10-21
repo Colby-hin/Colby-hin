@@ -31,6 +31,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - [Password Strength Evaluator](https://github.com/Colby-hin/password-evaluator)
 
 ## Threat Hunting and Incident Response
+- [Azure Honeypot](https://github.com/Colby-hin/azure-honeypot-mysql)
 - [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 - [Threat Hunting Scenario (TOR)](https://github.com/Colby-hin/threat-hunting-scenario-tor)
 - [Cargo Hold Threat Hunt Scenario](https://github.com/Colby-hin/Threat-Hunt-Cargo-Hold)
