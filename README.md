@@ -32,6 +32,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 ## Threat Hunting and Incident Response
 - [Azure Honeypot](https://github.com/Colby-hin/azure-honeypot-mysql)
+- [Campaign C0062 Threat Hunt](https://github.com/Colby-hin/Operation-QUARTZFANG-Threat-Hunt)
 - [Network Incident and Investigation](https://medium.com/@colbyhinchy/6bfdf4ec1263?postPublishedType=initial)
 - [Threat Hunting Scenario (TOR)](https://github.com/Colby-hin/threat-hunting-scenario-tor)
 - [Cargo Hold Threat Hunt Scenario](https://github.com/Colby-hin/Threat-Hunt-Cargo-Hold)
