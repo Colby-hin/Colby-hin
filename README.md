@@ -14,8 +14,6 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 </div>
 
-## GRC Engineering
-- [Governed Patient Intake Pipeline](https://github.com/Colby-hin/cgep-capstone)
 
 ## Vulnerability Management
 
@@ -23,11 +21,8 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
 - [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
 
-</div>
 
-## Python & Security Automation
-- [IOC Enricher](https://github.com/Colby-hin/ioc-enricher)
-- [Password Strength Evaluator](https://github.com/Colby-hin/password-evaluator)
+</div>
 
 ## Threat Hunting and Incident Response
 - [Wrong-Shell-Threat-Hunt](https://github.com/Colby-hin/Wrong-Shell-Threat-Hunt)
@@ -39,6 +34,18 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - [Agentic Threat Hunting Engine](https://github.com/Colby-hin/agentic-soc-engine)
 - [Agentic Threat Hunting Dashboard](https://github.com/Colby-hin/agentic-soc-dashboard)
 
+
+</div>
+
+## GRC Engineering
+- [Governed Patient Intake Pipeline](https://github.com/Colby-hin/cgep-capstone)
+
+
+</div>
+
+## Python & Security Automation
+- [IOC Enricher](https://github.com/Colby-hin/ioc-enricher)
+- [Password Strength Evaluator](https://github.com/Colby-hin/password-evaluator)
 
 
 </div>
