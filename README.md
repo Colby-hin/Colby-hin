@@ -15,15 +15,6 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 </div>
 
 
-## Vulnerability Management
-
-- [Vulnerability Management Program Implementation](https://medium.com/@colbyhinchy/vulnerability-management-program-implementation-72a7cb01e8f1)
-- [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
-- [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
-
-
-</div>
-
 ## Threat Hunting and Incident Response
 - [PHP2Shell-Hartwell-Threat-Hunt](https://github.com/Colby-hin/PHP2Shell-Hartwell-Threat-Hunt)
 - [Wrong-Shell-Threat-Hunt](https://github.com/Colby-hin/Wrong-Shell-Threat-Hunt)
@@ -34,6 +25,15 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 - [Cargo Hold Threat Hunt Scenario](https://github.com/Colby-hin/Threat-Hunt-Cargo-Hold)
 - [Agentic Threat Hunting Engine](https://github.com/Colby-hin/agentic-soc-engine)
 - [Agentic Threat Hunting Dashboard](https://github.com/Colby-hin/agentic-soc-dashboard)
+
+
+</div>
+
+## Vulnerability Management
+
+- [Vulnerability Management Program Implementation](https://medium.com/@colbyhinchy/vulnerability-management-program-implementation-72a7cb01e8f1)
+- [STIG Scan on Windows VM](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
+- [Azure VM Scan with Tenable](https://medium.com/@colbyhinchy/azure-vm-scanning-with-tenable-non-credentialed-vs-credentialed-f973819e63c8)
 
 
 </div>
