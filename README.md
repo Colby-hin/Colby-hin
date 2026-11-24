@@ -16,6 +16,7 @@ Throughout my career so far I’ve been intrigued by the concept of understandin
 
 
 ## Threat Hunting and Incident Response
+- [Operation-IRONSPINE-Threat-Hunt](https://github.com/Colby-hin/Operation-IRONSPINE-Threat-Hunt)
 - [PHP2Shell-Hartwell-Threat-Hunt](https://github.com/Colby-hin/PHP2Shell-Hartwell-Threat-Hunt)
 - [Wrong-Shell-Threat-Hunt](https://github.com/Colby-hin/Wrong-Shell-Threat-Hunt)
 - [Campaign C0062 Threat Hunt](https://github.com/Colby-hin/Operation-QUARTZFANG-Threat-Hunt)
